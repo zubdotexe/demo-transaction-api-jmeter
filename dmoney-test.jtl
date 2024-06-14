@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1718383607620,715,User Login,200,OK,Thread Group 1-1,text,true,,617,315,1,1,https://dmoney.roadtocareer.net/user/login,710,0,593
+1718383608377,230,Create Agent,201,Created,Thread Group 1-1,text,true,,604,616,1,1,https://dmoney.roadtocareer.net/user/create,230,0,0
+1718383608608,38,Create Customer,201,Created,Thread Group 1-1,text,true,,607,619,1,1,https://dmoney.roadtocareer.net/user/create,38,0,0
+1718383608647,270,Create Merchant,201,Created,Thread Group 1-1,text,true,,607,619,1,1,https://dmoney.roadtocareer.net/user/create,270,0,0
+1718383608918,33,SYSTEM Login,200,OK,Thread Group 1-1,text,true,,617,507,1,1,https://dmoney.roadtocareer.net/user/login,32,0,0
+1718383608951,277,SYSTEM deposits 2000 tk to Agent,201,Created,Thread Group 1-1,text,true,,444,536,1,1,https://dmoney.roadtocareer.net/transaction/deposit,277,0,0
+1718383609228,152,Agent deposits 1000 tk to Customer,201,Created,Thread Group 1-1,text,true,,444,536,1,1,https://dmoney.roadtocareer.net/transaction/deposit,152,0,0
+1718383609381,144,Customer checks balance,200,OK,Thread Group 1-1,text,true,,377,441,1,1,https://dmoney.roadtocareer.net/transaction/balance/01932397890,144,0,0
+1718383609526,38,Cusotmer withdraws 500 tk from Agent,201,Created,Thread Group 1-1,text,true,,429,541,1,1,https://dmoney.roadtocareer.net/transaction/withdraw,38,0,0
+1718383609565,136,Cusotmer pays 200 tk to Merchant,201,Created,Thread Group 1-1,text,true,,428,540,1,1,https://dmoney.roadtocareer.net/transaction/payment,136,0,0
