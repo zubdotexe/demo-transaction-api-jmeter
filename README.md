@@ -16,6 +16,7 @@
   https://documenter.getpostman.com/view/1844288/2s9YeABaGo
 - Transaction documentation:  
   https://documenter.getpostman.com/view/1844288/2s9YeABaGp
-## Output
+  
+## Output:
 ![jmeter-2](https://github.com/zubdotexe/demo-transaction-api-jmeter/assets/64923600/f65c86ec-ea47-4b83-ab88-a9986014a072)
 
